@@ -9,3 +9,8 @@
     padding: 50px;
     display: none;
 }
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
